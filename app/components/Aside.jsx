@@ -4,7 +4,7 @@
  * ```jsx
  * <Aside id="search-aside" heading="SEARCH">
  *  <input type="search" />
- *  ...
+ *  ...Content
  * </Aside>
  * ```
  * @param {{
