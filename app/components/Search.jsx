@@ -47,7 +47,7 @@ export function SearchForm({searchTerm}) {
         type="search"
       />
       &nbsp;
-      <button type="submit">Search</button>
+      <button type="submit">Search Here</button>
     </Form>
   );
 }
